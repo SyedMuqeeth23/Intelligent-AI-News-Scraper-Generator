@@ -21,6 +21,10 @@
 <p align="center">
 <img src="1.png" width="45%"/>
 <img src="2.png" width="45%"/>
+<img src="3.png" width="45%"/>
+<img src="4.png" width="45%"/>
+<img src="5.png" width="45%"/>
+<img src="6.png" width="45%"/>
 </p>
 
 **Intelligent AI News Scraper & Generator** is a modern AI-driven content creation system that converts raw AI news into engaging, audience-specific content.
