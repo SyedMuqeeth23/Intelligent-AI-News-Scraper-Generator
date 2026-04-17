@@ -16,8 +16,8 @@
 
 ## 🌟 Overview
 
-🔴 **Try the live app here:**
-👉 https://intelligent-ai-news-scraper-generator-muqeethomer.streamlit.app/
+## 📸 App Preview
+
 
 **Intelligent AI News Scraper & Generator** is a modern AI-driven content creation system that converts raw AI news into engaging, audience-specific content.
 
