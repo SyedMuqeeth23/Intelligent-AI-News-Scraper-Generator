@@ -96,6 +96,7 @@ Generate:
 ```
 📦 Intelligent-AI-News-Scraper-Generator
  ┣ 📜 agent.py
+ ┣ 📜 Ai Content Generator.ipynb
  ┣ 📜 requirements.txt
  ┗ 📜 README.md
 ```
