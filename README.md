@@ -18,6 +18,10 @@
 
 ## 📸 App Preview
 
+<p align="center">
+<img src="1.png" width="45%"/>
+<img src="2.png" width="45%"/>
+</p>
 
 **Intelligent AI News Scraper & Generator** is a modern AI-driven content creation system that converts raw AI news into engaging, audience-specific content.
 
